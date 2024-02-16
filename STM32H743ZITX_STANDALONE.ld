@@ -1,1 +1,0 @@
-/home/ktams/Entwicklung/tams/RB2/Software/RB2-Main/trunk/STM32H743ZITX_STANDALONE.ld
